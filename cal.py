@@ -10,5 +10,4 @@ def C():
 def D():
     return div
 
-def S():
-    return sq
+
